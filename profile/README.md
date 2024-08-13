@@ -4,7 +4,7 @@
 - [starter-vue3-ui](https://github.com/opuntia-dev/starter-vue3-ui) - Vue 3 UI component library starter template, supports SSG docs.
 - [starter-nuxt3](https://github.com/opuntia-dev/starter-nuxt3) - Nuxt 3 SSR starter template, it's similar to @opuntia-dev/starter-vue3-vite.
 
-/
+ ---
 
 👋 看这里
 
