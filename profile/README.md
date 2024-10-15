@@ -1,6 +1,3 @@
-<p align="center">
-  <span>🚴‍♀️&nbsp;🚴‍♂️&nbsp;&nbsp;</span>
-  <b>A journey of a thousand miles begins with a single step.</b>
-</p>
-
-<br/>
+<h3 align="center">
+   A thousand mile trip begins with one step / 千里之行，始于足下
+</h3>
